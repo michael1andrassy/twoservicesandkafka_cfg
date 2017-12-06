@@ -1,0 +1,11 @@
+tracer.property: "bla test - default"
+project:
+  name: test1
+  version: test2
+  description: test3
+info:
+  build:
+    artifact: test4
+    name: test5
+    description: test6
+    version: test7
